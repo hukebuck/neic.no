@@ -85,4 +85,6 @@ Consortium:
 * ETAIS, EE
 * NAISS, SE
 * DeiC, DK
-
+Observers:
+* SUNET the Swedish University Computer Network, SE
+* IT4I IT4Innovations National Supercomputing Center, CZ 
